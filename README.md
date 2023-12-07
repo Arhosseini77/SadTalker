@@ -1,15 +1,10 @@
 
+# Audio to Face-Landmarks
+
 ![sadtalker](https://user-images.githubusercontent.com/4397546/222490039-b1f6156b-bf00-405b-9fda-0c9a9156f991.gif)
 
-<b>TL;DR: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; single portrait image 🙎‍♂️  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; audio 🎤  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; talking head video 🎞.</b>
 
-<br>
-
-</div>
-
-
-# Audio to Face-Landmarks
-modify code CVPR2023 - [sadtalker](https://arxiv.org/abs/2211.12194) for generating landmarks 
+modify code CVPR2023 - [SadTalker](https://arxiv.org/abs/2211.12194) for generating landmarks from Audio
 
 
 
